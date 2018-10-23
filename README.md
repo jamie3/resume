@@ -24,7 +24,7 @@ I am a seasoned Software Engineer specializing in integration, server-side, full
 ### Senior Cloud Analyst, WestJet
 2018-Present
 
-Working on the Cloud Operations team my responsibilies include designing WestJet's Cloud environment and workign with various business units to design and migrate workloads to Azure.
+Working on the Cloud Operations team my responsibilies include designing WestJet's Cloud environment and working with various business units to design, migrate and provide recommendations for their workloads in the Cloud.
 
 ### Developer Analyst, Swoop (Secondment)
 2017-2018
@@ -36,13 +36,12 @@ As a Developer Analyst, my role on the development team was to design and develo
 Senior Software Developer, Mobile and Enterprise Services
 2017
 
-Duties included development and maintenance of several APIs for use by various products such as WestJet's mobile app.
+Duties included development and maintenance of several APIs for use by various products such as WestJet's mobile app and Westjet.com.
 
 Integration Developer III
 2015-2017
 
 As an Integration Developer my role was to develop integration solutions for WestJet's internal business systems and external guest-facing systems.
-
 
 ### Java Developer - FLYHT
 
