@@ -13,13 +13,13 @@ I am a seasoned Software Engineer specializing in integration, server-side, full
 - Java/Groovy, Node.js, .NET
 - Java Spring Framework / Spring Boot
 - Build tools (Maven, Gradle)
-- AWS / Azure Cloud (some GCP)
-- Integration / Apache Camel
-- Docker (some Kubernetes)
-- RDBMS / SQL
-- Middleware and messaging (eg. IBM MQ, ActiveMQ, AWS SNS/SQS)
+- Cloud AWS / Azure (some GCP)
+- Integration Apache Camel
+- Containers Docker (some Kubernetes)
+- RDBMS SQL
+- Middleware Messaging (eg. IBM MQ, ActiveMQ, AWS SNS/SQS)
 - REST API
-- jQuery / HTML
+- jQuery HTML
 
 ## Education
 
