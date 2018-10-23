@@ -1,6 +1,6 @@
 # Introduction
 
-I am a seasoned Software Engineer specializing in integration, server-side, full stack and cloud. I enjoy working with passionate and creative individuals.
+I am a seasoned Software Engineer specializing in integration, server-side, full stack and cloud. I enjoy working with passionate and creative individuals while pushing the limits of technology.
 
 ## Strengths
 
