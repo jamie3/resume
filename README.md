@@ -23,13 +23,16 @@ I am a seasoned Software Engineer specializing in integration, server-side, full
 
 ## Education
 
-Electrical Engineering Diploma - Saint Mary's University - Halifax, NS
+- Electrical Engineering Diploma
+Saint Mary's University - Halifax, NS
 2000-2002
 
-Applied Science Degree - Saint Mary's University - Halifax, NS
+- Applied Science Degree
+Saint Mary's University - Halifax, NS
 2003
 
-Electrical and Computer Engineering - Dalhousie University - Halifax, NS
+- Electrical and Computer Engineering
+Dalhousie University - Halifax, NS
 2003-2005
 
 ## Experience
