@@ -2,18 +2,18 @@
 
 I am a seasoned Software Engineer specializing in integration, server-side, full stack and cloud. I enjoy working with passionate and creative individuals while pushing the limits of technology.
 
-## Strengths
+## Soft Strengths
 
-- Java Enterprise and Micro-services
-- Ability to work with legacy and modern new systems
+- Team player
 - Agile / DevOps mindset
-- Cloud
+- Experience training and leading teams
 
 ## Techincal Skills
 
 - Java/Groovy, Node.js, .NET
-- Java Spring Framework
-- AWS / Azure Cloud
+- Java Spring Framework / Spring Boot
+- AWS / Azure Cloud (some GCP)
+- Integration / Apache Camel
 - Docker (some Kubernetes)
 - RDBMS / SQL
 - Middleware and messaging (eg. IBM MQ, ActiveMQ, AWS SNS/SQS)
