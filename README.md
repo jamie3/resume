@@ -39,7 +39,6 @@ Dalhousie University - Halifax, NS
 ## Experience
 
 ### Senior Cloud Analyst - WestJet
-![alt text](https://media.licdn.com/dms/image/C4D0BAQEp61uOGz3JZA/company-logo_400_400/0?e=1548288000&v=beta&t=JU2LJzDzH14taKHxmpurMoGDPSREZ4eYggFXawB_480 "Logo Title Text 1")
 2018-Present
 
 Working on the Cloud Operations team my responsibilies include designing WestJet's Cloud environment and working with various business units to design, migrate and provide recommendations for their workloads in the Cloud.
