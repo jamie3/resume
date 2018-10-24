@@ -38,17 +38,18 @@ Dalhousie University - Halifax, NS
 
 ## Experience
 
-### Senior Cloud Analyst, WestJet
+### Senior Cloud Analyst - WestJet
+[logo]: https://media.licdn.com/dms/image/C4D0BAQEp61uOGz3JZA/company-logo_400_400/0?e=1548288000&v=beta&t=JU2LJzDzH14taKHxmpurMoGDPSREZ4eYggFXawB_480
 2018-Present
 
 Working on the Cloud Operations team my responsibilies include designing WestJet's Cloud environment and working with various business units to design, migrate and provide recommendations for their workloads in the Cloud.
 
-### Developer Analyst, Swoop (Secondment)
+### Developer Analyst - Swoop (Secondment)
 2017-2018
 
 As a Developer Analyst, my role on the development team was to design and develop (from scratch) a commercial website for customers to book flights with Swoop. The role also required testing and operations. https://wwww.flyswoop.com. This website was developed in under 3 months, and continued for several adding new features.
 
-### Senior Software Developer (Mobile and Enterprise Services), WestJet
+### Senior Software Developer (Mobile and Enterprise Services) - WestJet
 2017
 
 Duties included development and maintenance of several APIs for use by various products such as WestJet's mobile app and Westjet.com.
