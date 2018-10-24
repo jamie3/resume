@@ -6,7 +6,8 @@ I am a seasoned Software Engineer specializing in integration, server-side, full
 
 - Team player
 - Agile / DevOps mindset
-- Experience training and leading teams
+- Training, mentoring and leading teams
+- Working with customers and business stakeholders
 
 ## Techincal Skills
 
