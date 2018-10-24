@@ -59,11 +59,12 @@ Duties included development and maintenance of several APIs for use by various p
 As an Integration Developer my role was to develop integration solutions for WestJet's internal business systems and external guest-facing systems.
 
 ### Java Developer - FLYHT
+2014-2015
 
 My role as a Java Developer included the development and maintenance of an existing legacy application "UpTime" which collected real-time flight data from aircraft via Iridium satellite to various customers. The system contained a web application portal for customers to view and analyze their aircraft fleet.
 
 ### Senior Java Developer - Pay Safe
-2013
+2013-2014
 
 My role as a Senior Java Developer was to build and test full stack customer-facing web applications for virtual wallet and payment portals. 
 
