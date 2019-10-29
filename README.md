@@ -11,16 +11,15 @@ I am a seasoned Software Engineer specializing in integration, apis, full stack 
 
 ## Techincal Skills
 
-- Java/Groovy, Node.js, .NET
-- Java Spring Framework / Spring Boot
-- Build tools (Maven, Gradle)
-- Cloud AWS / Azure (some GCP)
-- Integration Apache Camel
-- Containers Docker (some Kubernetes)
-- RDBMS SQL
-- Middleware Messaging (eg. IBM MQ, ActiveMQ, AWS SNS/SQS)
-- REST API
-- jQuery HTML
+- Java / Groovy / Spring
+- Node.js / TypeScript
+- Maven / Gradle
+- AWS / Azure (some GCP)
+- Docker
+- SQL / NoSQL (eg. Mongo)
+- Messaging Messaging (eg. ActiveMQ, AWS SNS/SQS)
+- REST / GraphQL API
+- jQuery, HTML, CSS
 
 ## Education
 
@@ -38,8 +37,13 @@ Dalhousie University - Halifax, NS
 
 ## Experience
 
+### Software Engineer - Neo Financial
+July 2019 - October 2019
+
+Working for a fintech company to build modern bank. Included Node.js, TypeScript, AWS.
+
 ### Senior Cloud Analyst - WestJet
-2018-Present
+2018-2019
 
 Working on the Cloud Operations team my responsibilies include designing WestJet's Cloud environment and working with various business units to design, migrate and provide recommendations for their workloads in the Cloud.
 
