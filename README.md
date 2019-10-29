@@ -15,6 +15,7 @@ I am a seasoned Software Engineer specializing in integration, apis, full stack 
 - Node.js / TypeScript
 - Maven / Gradle
 - AWS / Azure (some GCP)
+- Terraform
 - Docker
 - SQL / NoSQL (eg. Mongo)
 - Messaging Messaging (eg. ActiveMQ, AWS SNS/SQS)
