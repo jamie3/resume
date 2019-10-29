@@ -50,7 +50,7 @@ Working on the Cloud Operations team my responsibilies include designing WestJet
 ### Developer Analyst - Swoop (Secondment)
 2017-2018
 
-As a Developer Analyst, my role on the development team was to design and develop (from scratch) a commercial website for customers to book flights with Swoop. The role also required testing and operations. https://wwww.flyswoop.com. This website was developed in under 3 months, and continued for several adding new features.
+As a Developer Analyst, my role on the development team was to design and develop (from scratch) a commercial website for customers to book flights with Swoop. The role also required testing and operations. https://www.flyswoop.com. This website was developed in under 3 months, and continued for several adding new features.
 
 ### Senior Software Developer (Mobile and Enterprise Services) - WestJet
 2017
